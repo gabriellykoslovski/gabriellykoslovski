@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Gabrielly! 👋
 
-<!--
-**gabriellykoslovski/gabriellykoslovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | React • Next.js • TypeScript • Java
 
-Here are some ideas to get you started:
+I’m a software developer with 5+ years of experience building and maintaining web applications. My background is focused on frontend development, and I’m expanding my backend skills to build full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Degree in Computer Science Education from UTFPR, Brazil.
+- 💻 Professional experience with React, Next.js, and TypeScript.
+- 🔗 Experience integrating web applications with REST APIs.
+- ☕ Studying Java and Spring Boot through practical projects.
+- 🔐 Interested in application security, software quality, and secure development.
+- 🌎 Portuguese (native) | English (advanced).
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,java,spring,nodejs,git,github,docker,aws&perline=7)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellykoslovski&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellykoslovski&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-koslovski/)
+
+*Always learning, building, and improving.*
